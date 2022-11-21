@@ -1,4 +1,4 @@
-package org.SII.homework.week6;
+package org.siit.homework.week6;
 
 public class Main {
     public static void main(String[] args) {

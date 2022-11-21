@@ -1,2 +1,2 @@
-# SII_Homework
-Repository containing the SII Java course homework
+# SIIT_Homework
+Repository containing the SIIT Java course homework

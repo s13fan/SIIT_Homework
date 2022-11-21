@@ -1,4 +1,4 @@
-package org.SII;
+package org.siit;
 
 public class Main {
     public static void main(String[] args) {
