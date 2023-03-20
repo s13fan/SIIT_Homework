@@ -1,0 +1,5 @@
+<root>
+    <item name='java.io.FileNotFoundException FileNotFoundException(java.lang.String, java.lang.String)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
